@@ -1,2 +1,1 @@
-# tindog
-it is a replicate of tinder
+TinDog Starting Files
